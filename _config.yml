@@ -24,4 +24,4 @@ github_username:  MKDale
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: Artist Theme
