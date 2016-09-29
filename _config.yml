@@ -1,22 +1,13 @@
-# Default, Defaults
-markdown: kramdown
-theme: Artists Theme
-highlighter: pygments # or rouge or null
-exclude: ["node_modules", "gulpfile.js", "package.json"]
 
-# Jekyll Defaults
+
 title: Mariesa Dale
 email: mariesa@mkdaledesign.com
 description: Post-its, Star Wars BAND-AIDs, & CSS. Product Design @PivotalLabs.
 baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://MKDale.github.io" # the base hostname & protocol for your site
+twitter_username: @MariesaKDale
+github_username:  MKDale
 
-# Where can people find your site?
-url: "https://MKDale.github.io"
-# When developing, set this ^ equal to whatever localhost you're using
-
-# Socail Media links
-# Use these to link users to your organization's social media sites
-twitter: @MariesaKDale
-
-author: Nina Petropoulos
-authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
+# Build settings
+markdown: kramdown
+theme: Artists Theme
