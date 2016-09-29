@@ -1,27 +1,23 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Default, Defaults
+markdown: redcarpet
+highlighter: pygments # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Mariesa Dale
-email: mariesa@mkdaledesign.com
-description: The design I do.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://art.github.io" # the base hostname & protocol for your site
-twitter_username: @MariesaKDale
-github_username:  MKDale
+# Jekyll Defaults
+title: Artist Theme
+email: your-email@domain.com
+description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
+baseurl: "http://localhost:3000" # the subpath of your site, e.g. /blog
 
-# Build settings
-markdown: kramdown
-theme: minima
+# Where can people find your site?
+url: "http://localhost:3000"
+# When developing, set this ^ equal to whatever localhost you're using
 
+# Socail Media links
+# Use these to link users to your organization's social media sites
+twitter:
+facebook:
+google:
+
+author: Nina Petropoulos
+authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
