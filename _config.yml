@@ -4,7 +4,7 @@ title: Mariesa Dale
 email: mariesa@mkdaledesign.com
 description: Post-its, Star Wars BAND-AIDs, & CSS. Product Design @PivotalLabs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://MKDale.github.io" # the base hostname & protocol for your site
+url: "http://MKDale.github.io" # the base hostname & protocol for your site
 twitter_username: @MariesaKDale
 github_username:  MKDale
 
