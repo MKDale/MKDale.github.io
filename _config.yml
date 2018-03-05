@@ -6,7 +6,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 # Jekyll Defaults
 title: Mariesa Dale
 email: mariesa@mkdaledesign.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
+description: Product Designer
 baseurl: "https://mkdale.github.io/" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
@@ -16,8 +16,9 @@ url: "https://mkdale.github.io/"
 # Socail Media links
 # Use these to link users to your organization's social media sites
 twitter: https://twitter.com/MariesaKDale
-facebook:
-google:
+instagram: https://www.instagram.com/mariesakdale/
+github: https://github.com/MKDale
+dribbble: https://dribbble.com/MariesaKDale
 
-author: Nina Petropoulos
-authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
+author: Mariesa Dale
+authorBio: Seattle artist, DC designer
