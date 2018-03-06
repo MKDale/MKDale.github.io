@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Basic Use: A Guide"
-date:   2016-01-30 09:11:03
+title:  "ArmorText"
+date:   2016-03-04 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: building1.jpg
-categories: category2
+categories: casestudies
 
 # Information for the author block
-author: Nina Petropoulos
+author: Mariesa Dale
 ---
 
 If this is your first time using Jekyll, don't be scared! Installing and setting up this particular theme is very, very simple. I'll walk you through it.

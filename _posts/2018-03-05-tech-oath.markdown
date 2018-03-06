@@ -3,7 +3,7 @@ layout: post
 title:  "The Technologist's Hippocratic Oath"
 date:   2018-03-05 09:11:03
 description: An optional oath for building ethically considered experiences.
-thumbnail: techoath.jpeg
+thumbnail: techoath.jpg
 categories: soapbox
 
 # Information for the author block
